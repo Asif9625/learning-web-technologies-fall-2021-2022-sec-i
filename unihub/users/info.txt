@@ -1,0 +1,7 @@
+student|1234|std@std.com
+admin|admin|admin@admin.com
+Asif|1234|asif@gmail.com
+user|user|user@std.com
+alamin|1234|alamin@gmail.com
+hakim|1234|hakim@gmail.com
+sajid|123|sajid@gmail.com
