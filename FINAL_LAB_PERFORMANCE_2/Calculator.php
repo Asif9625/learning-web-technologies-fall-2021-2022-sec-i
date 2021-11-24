@@ -1,8 +1,5 @@
-<?php 
+<<?php
 
-session_start();
+	echo "response: ".$_REQUEST[''];
 
-	if(isset($_REQUEST['Submit']))
-	{
-	}
 ?>
